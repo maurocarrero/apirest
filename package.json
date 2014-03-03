@@ -1,0 +1,12 @@
+{
+  "name": "api_rest",
+  "description": "API REST - CEP Módulo 2",
+  "version": "0.0.1",
+  "private": true,
+
+  "dependencies": {
+    "express": "3.4.8",
+    "js2xmlparser": "0.1.3",
+    "xml2js": "0.4.1"
+  }
+}
